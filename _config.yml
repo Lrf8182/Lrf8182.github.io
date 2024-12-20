@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Academic Home"
 title_separator          : "-"
-name                     : &name "Ruifeng Li"
+name                     : &name "Ellen Li"
 description              : &description "personal description"
-url                      : https://Lrf8182.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lrf8182.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lrf8182/Lrf8182.github.io"
 
@@ -22,13 +22,13 @@ repository               : "Lrf8182/Lrf8182.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Ellen Li (李睿凤)"
+  pronouns         : she/her
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lrf8182@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
