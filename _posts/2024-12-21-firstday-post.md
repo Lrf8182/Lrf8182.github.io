@@ -31,7 +31,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
 然后关了重新开就没错了  
 8\. python 别管  
 9\. vscode装扩展  
-![2b145d841df1130247a7f9ec4bb40e2c.png](https://lrf8182.github.io/_resources/2b145d841df1130247a7f9ec4bb40e2c.png)  
+![2b145d841df1130247a7f9ec4bb40e2c.png](https://lrf8182.github.io/images/_resources/2b145d841df1130247a7f9ec4bb40e2c.png)  
 ![73f2b901b51222ce51a5dcc0115e9bf9.png](_resources/73f2b901b51222ce51a5dcc0115e9bf9.png)  
 ![78e12036f868db4407168df08b90a781.png](_resources/78e12036f868db4407168df08b90a781.png)  
 ![47fd03f8771984511213c1350728f795.png](_resources/47fd03f8771984511213c1350728f795.png)  
