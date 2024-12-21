@@ -17,7 +17,7 @@ tags:
 4.  如果要用服务器：问实习生服务器的 ip 端口 用户和密码。  
     ssh-keygen -t ed25519 -C "your@email.com" -f C:/你的个人文件夹/.ssh/your-key-name（your-key-name 写你公司的名字）
 
-![68a3671ca191207c463d7b1f1855b56a.png](/images/_resources/68a3671ca191207c463d7b1f1855b56a.png)  
+![68a3671ca191207c463d7b1f1855b56a.png](https://lrf8182.github.io/images/_resources/68a3671ca191207c463d7b1f1855b56a.png)  
 注意路径，改 .config 文件中的 ssh。github.com 密钥路径  
 4\. git clone  
 5\. miniconda  
@@ -31,7 +31,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
 然后关了重新开就没错了  
 8\. python 别管  
 9\. vscode装扩展  
-![2b145d841df1130247a7f9ec4bb40e2c.png](_resources/2b145d841df1130247a7f9ec4bb40e2c.png)  
+![2b145d841df1130247a7f9ec4bb40e2c.png](https://lrf8182.github.io/_resources/2b145d841df1130247a7f9ec4bb40e2c.png)  
 ![73f2b901b51222ce51a5dcc0115e9bf9.png](_resources/73f2b901b51222ce51a5dcc0115e9bf9.png)  
 ![78e12036f868db4407168df08b90a781.png](_resources/78e12036f868db4407168df08b90a781.png)  
 ![47fd03f8771984511213c1350728f795.png](_resources/47fd03f8771984511213c1350728f795.png)  
