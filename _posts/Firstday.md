@@ -1,3 +1,14 @@
+---
+title: 'First day'
+date: 2024-12-21
+permalink: /posts/2024/12/blog-post-1/
+tags:
+  - set up
+  - intern
+---
+
+
+
 ## 装环境
 
 1.  QQ 微信 VScode（字体，自动保存） Joplin 本机cmd nvidia-smi看是否有显卡
