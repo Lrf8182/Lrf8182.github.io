@@ -17,7 +17,7 @@ tags:
 4.  如果要用服务器：问实习生服务器的 ip 端口 用户和密码。  
     ssh-keygen -t ed25519 -C "your@email.com" -f C:/你的个人文件夹/.ssh/your-key-name（your-key-name 写你公司的名字）
 
-![68a3671ca191207c463d7b1f1855b56a.png](_resources/68a3671ca191207c463d7b1f1855b56a.png)  
+![68a3671ca191207c463d7b1f1855b56a.png](/images/_resources/68a3671ca191207c463d7b1f1855b56a.png)  
 注意路径，改 .config 文件中的 ssh。github.com 密钥路径  
 4\. git clone  
 5\. miniconda  
@@ -56,4 +56,4 @@ pip install -r ./requirements.txt
 
 http://127.0.0.1:51220/  
 https://app.lantern.vip/lantern-installer-64.exe  
-![48562b48da1fae0a92ae6705716ada75.png](../_resources/48562b48da1fae0a92ae6705716ada75.png)
+![48562b48da1fae0a92ae6705716ada75.png](../images/_resources/48562b48da1fae0a92ae6705716ada75.png)
