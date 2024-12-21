@@ -1,7 +1,7 @@
 ---
 title: 'First day'
 date: 2024-12-21
-permalink: /posts/2024/12/blog-post-1/
+permalink: /posts/2024/12/firstday-post/
 tags:
   - set up
   - intern
