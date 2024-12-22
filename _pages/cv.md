@@ -11,54 +11,78 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer And Science technology, Shang Hai University, 2021-2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2024-Present: AI Development Intern
+  * OpenJobs AI
+  * Duties included:
+  * Leading development of Lingxi multilingual search engine
+  * Implementing intelligent resume optimization systems
+  * Managing backend API development with FastAPI
+  * Jan 2024-May 2024: IT Intern
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Yum China
+  * Duties included:
+  * Implementing enterprise-level RAG applications
+  * Exploring CV models with Stable Diffusion
+  * Maintaining customer satisfaction platforms
+  * Jun 2023-Present: Research Assistant
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* East China Air Traffic Management Bureau Research Assistant
+  * Duties included:
+  * Developing deep learning models for meteorological forecasting
+  * Implementing video super-resolution systems
+  * Optimizing model performance metrics
+
+* Mar 2023-Present: Cybersecurity Lab, Shanghai University Research Assistant
+  * Duties included:
+  * Designing SMB with OneHot encoding
+  * Implementing distributed training solutions
+  * Developing anomaly detection systems
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * C++
+  * SQL
+* Machine Learning & AI
+  * Deep Learning Frameworks
+  * Large Language Models
+  * Distributed Training
+  * Fine-Tuning
+* Development Tools
+  * Linux
+  * Docker
+  * FastAPI
+  * Git
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* "MDHP-Net: Detecting Injection Attacks on In-vehicle Network using Multi-Dimensional Hawkes Process and Temporal Model." IEEE Symposium on Security and Privacy, 2025. (Under Review)  [paper](https://arxiv.org/abs/2411.10258)[code](https://arxiv.org/abs/2411.10258)
+
+* "HP-LSTM: Hawkes Process–LSTM-Based Detection of DDoS Attack for In-Vehicle Network." Future Internet 16.6 (2024): 185.  [paper](https://www.mdpi.com/1999-5903/16/6/185)[code](https://github.com/jamesnulliu/HP-LSTM)
   
-Teaching
+Awards & Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2024 National First Prize - National University Student Computer Application Competition
+* 2023 Outstanding Student, Shanghai University
+* 2022 First-Class Academic Scholarship
+* 2022 Excellence Award - 20th Shanghai University Programming Contest
+  
+Languages
+======
+* Chinese (Native)
+* English (Professional Working Proficiency)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer in 2023 ICPC Final
+
