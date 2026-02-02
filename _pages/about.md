@@ -44,7 +44,7 @@ Contact & Resume
   </div>
   <div>
     <i class="fab fa-fw fa-linkedin"></i> <b>LinkedIn:</b> 
-    <a href="https://www.linkedin.com/in/ellen-lee-285a7a373/">ellen-lee-285a7a373</a>
+    <a href="https://www.linkedin.com/in/ruifeng-li-285a7a373/">ellen-lee</a>
   </div>
   <div style="margin-top: 15px;">
     <a href="/files/i2025930Profile.pdf" class="btn btn--info" style="text-decoration: none; border-radius: 20px; padding: 10px 20px;">
