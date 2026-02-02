@@ -1,6 +1,6 @@
 ---
 title: "ML Intern: OpenJobs AI"
-excerpt: "Optimized LLM pipelines and migrated to self-hosted Llama 3 via vLLM, achieving a 67% reduction in latency."
+excerpt: "Optimized LLM pipelines and migrated to self-hosted Llama 3 via vLLM."
 collection: portfolio
 ---
 
