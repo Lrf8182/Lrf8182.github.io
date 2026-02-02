@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Software Engineering & AI Research"
 author_profile: true
@@ -7,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at Shanghai University's School of Computer Engineering and Science, focusing on artificial intelligence and software engineering. My research interests span vehicle network security, meteorological applications, and AI system optimization. Currently, I work as an intern at OpenJobs AI, developing intelligent solutions for job search and recruitment. 
+I am a Results-driven Computer Science Master's student with extensive experience in optimizing and deploying production-level AI
+systems, specializing in LLM pipeline engineering. Versatile experience across LLM pipeline engineering, Retrieval-Augmented
+Generation (RAG), computer vision research (VSR), and distributed training, supported by two second-author publications.
 
 Research Focus
 ======
@@ -19,11 +22,33 @@ Working with the Cybersecurity Lab Vehicle Communication System Modeling and Sim
 Meteorological Applications
 At the East China Air Traffic Management Bureau, I research deep learning applications for meteorological forecasting and super-resolution. This work involves comparing and optimizing various state-of-the-art models, including RVRT and BasicVSR++, while incorporating optical flow techniques for enhanced accuracy.
 
-
+<!-- 
 Contact me
 ------
+<p>
+  <i class="fas fa-fw fa-envelope"></i> <b>Email:</b> <a href="mailto:ruifengl@usc.edu">ruifengl@usc.edu</a> <br>
+  <i class="fas fa-fw fa-phone"></i> <b>Phone:</b> +1 (213) 378-4611 <br>
+  <i class="fab fa-fw fa-linkedin"></i> <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ellen-lee-285a7a373/">ellen-lee-285a7a373</a>
+</p> -->
 
-
-For more info
-------
-
+Contact & Resume
+======
+<div style="display: flex; flex-direction: column; gap: 10px; font-size: 1.1em;">
+  <div>
+    <i class="fas fa-fw fa-envelope"></i> <b>Email:</b> 
+    <a href="mailto:ruifengl@usc.edu">ruifengl@usc.edu</a>
+  </div>
+  <div>
+    <i class="fas fa-fw fa-phone"></i> <b>Phone:</b> 
+    +1 (213) 378-4611
+  </div>
+  <div>
+    <i class="fab fa-fw fa-linkedin"></i> <b>LinkedIn:</b> 
+    <a href="https://www.linkedin.com/in/ellen-lee-285a7a373/">ellen-lee-285a7a373</a>
+  </div>
+  <div style="margin-top: 15px;">
+    <a href="/files/i2025930Profile.pdf" class="btn btn--info" style="text-decoration: none; border-radius: 20px; padding: 10px 20px;">
+      <i class="fas fa-fw fa-file-pdf"></i> Download My CV (PDF)
+    </a>
+  </div>
+</div>
